@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.App-link {
+  color: #ff742b;
+  position: relative;
+  top: 20px;
+  padding: 10px;
+  padding-left: 50px;
+  background: #e6e6df;
+  cursor: pointer;
+}
+@import 'app/assets/styles/Navbar.module.css';
+@import 'app/assets/styles/Logo.module.css';
+@import 'app/assets/styles/Table.module.css';

@@ -1,0 +1,9 @@
+.Logo {
+  display: flex;
+  margin: 7px;
+  cursor: pointer;
+}
+
+.Logo img {
+  height: 20px;
+}
