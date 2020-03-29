@@ -1,1 +1,1 @@
-export const hostUrl = 'http://hn.algolia.com/api';
+export const hostUrl = 'https://hn.algolia.com/api';
